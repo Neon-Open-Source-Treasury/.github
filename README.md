@@ -35,4 +35,6 @@ If you’re building open-source tools powered by Postgres, we want to help you 
   />
 </a>
 
-#Where can I apply?#
+**Apply to the program**
+
+If you would like to be sponsored by Neon, you can apply [here](https://neon.com/programs/open-source).
