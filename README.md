@@ -17,9 +17,9 @@ If you’re building open-source tools powered by Postgres, we want to help you 
 
 # Sponsored Projects
 
-
-<img 
-  src="https://neondatabase.wpengine.com/wp-content/uploads/2025/11/lobehub-logo.png"
-  alt="Lobehub"
-/>
-
+<a href="https://lobehub.com/" target="_blank">
+  <img 
+    src="https://neondatabase.wpengine.com/wp-content/uploads/2025/11/lobehub-logo.png"
+    alt="Lobehub"
+  />
+</a>
