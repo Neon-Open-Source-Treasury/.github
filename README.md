@@ -23,3 +23,12 @@ If you’re building open-source tools powered by Postgres, we want to help you 
     alt="Lobehub"
   />
 </a>
+
+
+<a href="https://medusajs.com/" target="_blank">
+  <img 
+    src="https://neondatabase.wpengine.com/wp-content/uploads/2025/11/showcase-medusa-wordmark-dark.png"
+    alt="Medusa"
+    style="max-height:200px;"
+  />
+</a>
