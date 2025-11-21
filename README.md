@@ -1,6 +1,7 @@
 # Neon Open Source Program
 
 **What is Neon?**
+
 Neon is a serverless, autoscaling Postgres platform built for modern applications. It separates storage and compute to deliver fast provisioning, branching, and a pay-for-what-you-use experience.
 
 **What is the Neon Open Source Program**  
