@@ -1,3 +1,11 @@
+<a href="https://https://neon.com/programs/open-source" target="_blank">
+  <img 
+    src="https://neondatabase.wpengine.com/wp-content/uploads/2025/10/neon-open-source.jpg"
+    alt="Neon Open Source Program"
+    style="max-height:200px;"
+  />
+</a>
+
 # Neon Open Source Program
 
 **What is Neon?**
@@ -8,7 +16,7 @@ Neon is a serverless, autoscaling Postgres platform built for modern application
 
 **What is the Neon Open Source Program** 
 
-The Neon Open Source Program is for anyone building open source tools that use Postgres. Selected projects receive up to $5,000 yearly in platform credits, enrollment in a cash referral program, and marketing support to expand visibility.
+The Neon Open Source Program is for anyone building open source tools that use Postgres. Selected projects receive up to $5,000 yearly in platform credits, enrollment in a cash referral program, and marketing support to expand visibility. This org is where we manage payouts for this program. 
 
 If you’re building open-source tools powered by Postgres, we want to help you grow:
 
