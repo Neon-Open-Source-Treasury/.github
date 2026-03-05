@@ -43,6 +43,18 @@ If you’re building open-source tools powered by Postgres, we want to help you 
   />
 </a>
 
+<a href="https://medusajs.com/" target="_blank">
+  <img 
+    src="https://neondatabase.wpenginepowered.com/wp-content/uploads/2026/03/mix@2x-3-scaled.png"
+    alt="Medusa"
+    style="max-height:200px;"
+  />
+</a>
+
+
+
+
+
 **Apply to the program**
 
 If you would like to be sponsored by Neon, you can apply [here](https://neon.com/programs/open-source).
