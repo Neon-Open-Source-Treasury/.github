@@ -29,10 +29,21 @@ If you’re building open-source tools powered by Postgres, we want to help you 
 
 <a href="https://lobehub.com/" target="_blank">
   <img 
-    src="https://neondatabase.wpengine.com/wp-content/uploads/2025/11/lobehub-logo.png"
-    alt="Lobehub"
+    src="https://neondatabase.wpengine.com/wp-content/uploads/2025/11/lobehub-logo.png" 
+    alt="Lobehub" 
+    style="max-width: 200px; height: auto;"
+    class="adaptive-logo"
   />
 </a>
+
+<style>
+  /* This detects if the user's system is in Dark Mode */
+  @media (prefers-color-scheme: dark) {
+    .adaptive-logo {
+      filter: invert(1) brightness(2); /* Inverts colors to white */
+    }
+  }
+</style>
 
 
 <a href="https://medusajs.com/" target="_blank">
