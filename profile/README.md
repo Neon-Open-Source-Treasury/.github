@@ -43,7 +43,7 @@ If you’re building open-source tools powered by Postgres, we want to help you 
   />
 </a>
 
-<a href="https://https://www.docsgpt.cloud/" target="_blank">
+<a href="https://https://docsgpt.cloud/" target="_blank">
   <img 
     src="https://neondatabase.wpenginepowered.com/wp-content/uploads/2026/03/mix@2x-3-scaled.png"
     alt="Medusa"
