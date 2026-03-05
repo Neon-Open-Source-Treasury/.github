@@ -28,15 +28,10 @@ If you’re building open-source tools powered by Postgres, we want to help you 
 # Sponsored Projects
 
 <a href="https://lobehub.com/" target="_blank">
-
   <img 
-
     src="https://neondatabase.wpengine.com/wp-content/uploads/2025/11/lobehub-logo.png"
-
     alt="Lobehub"
-
   />
-
 </a>
 
 
@@ -51,5 +46,3 @@ If you’re building open-source tools powered by Postgres, we want to help you 
 **Apply to the program**
 
 If you would like to be sponsored by Neon, you can apply [here](https://neon.com/programs/open-source).
-
-
