@@ -1,10 +1,4 @@
-<a href="https://https://neon.com/programs/open-source" target="_blank">
-  <img 
-    src="https://neondatabase.wpengine.com/wp-content/uploads/2025/10/neon-open-source.jpg"
-    alt="Neon Open Source Program"
-    style="max-height:200px;"
-  />
-</a>
+[![Neon Open Source Program](https://neondatabase.wpengine.com/wp-content/uploads/2025/10/neon-open-source.jpg)](https://neon.com/programs/open-source)
 
 # Neon Open Source Program
 
@@ -27,39 +21,7 @@ If you’re building open-source tools powered by Postgres, we want to help you 
 
 # Sponsored Projects
 
-<p align="center">
-
-<a href="https://lobehub.com/" target="_blank">
-  <span style="background:white;padding:10px;border-radius:6px;display:inline-block;margin:6px;">
-    <img 
-      src="https://neondatabase.wpengine.com/wp-content/uploads/2025/11/lobehub-logo.png"
-      alt="Lobehub"
-      width="200"
-    />
-  </span>
-</a>
-
-<a href="https://medusajs.com/" target="_blank">
-  <span style="background:white;padding:10px;border-radius:6px;display:inline-block;margin:6px;">
-    <img 
-      src="https://neondatabase.wpengine.com/wp-content/uploads/2025/11/medusa-logo.png"
-      alt="Medusa"
-      width="200"
-    />
-  </span>
-</a>
-
-<a href="https://docsgpt.cloud/" target="_blank">
-  <span style="background:white;padding:10px;border-radius:6px;display:inline-block;margin:6px;">
-    <img 
-      src="https://neondatabase.wpenginepowered.com/wp-content/uploads/2026/03/mix@2x-3-scaled.png"
-      alt="DocsGPT"
-      width="200"
-    />
-  </span>
-</a>
-
-</p>
+<a href="https://medusajs.com/" target="_blank"><img src="logos/Medusa_logo.svg" alt="Medusa" height="50" /></a> <a href="https://docsgpt.cloud/" target="_blank"><img src="logos/docsgpt-logo.png" alt="DocsGPT" height="50" /></a>
   
 
 
