@@ -21,7 +21,7 @@ If you’re building open-source tools powered by Postgres, we want to help you 
 
 # Sponsored Projects
 
-<a href="https://medusajs.com/" target="_blank"><img src="logos/Medusa_logo.svg" alt="Medusa" height="50" /></a> <a href="https://docsgpt.cloud/" target="_blank"><img src="logos/docsgpt-logo.png" alt="DocsGPT" height="50" /></a> <a href="https://aitmpl.com" target="_blank"><img src="logos/aitmpl-logo.png" alt="AITMPL" height="50" /></a>
+<a href="https://medusajs.com/" target="_blank"><img src="logos/Medusa_logo.svg" alt="Medusa" height="50" /></a> <a href="https://docsgpt.cloud/" target="_blank"><img src="logos/docsgpt-logo.png" alt="DocsGPT" height="50" /></a> <a href="https://aitmpl.com" target="_blank"><img src="logos/aitmpl-logo.png" alt="AITMPL" height="50" /></a> <a href="https://rari.build/" target="_blank"><img src="logos/rari-logo.svg" alt="rari" height="50" /></a>
   
 
 
